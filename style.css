@@ -1,15 +1,15 @@
 * {
-        margin: 0;
-        padding: 0;
-}
+    margin: 0;
+    padding: 0;
+    }
 
-    .cabecalho {
-        padding: 15px 25px;
+.cabecalho {
+    padding: 15px 25px;
     }
 
     .cartao {
         width: 260px
-        heigth: 200px
+        height: 200px
     }
 
     .cartao-imagem {
